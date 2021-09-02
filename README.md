@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vjards
+- 👀 I’m interested in becoming a front-end developer for marketing agencies.
+- 🌱 I’m currently learning JavaScript and Wordpress
+- 📫 How to reach me: victoria@victoriaardscreative.com
