@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vjards and I'm from Houston, Texas.
 - 👀 I’m interested in becoming a technological unicorn that specializes in BOTH web dev and design.
 - 🌱 I’m currently learning JavaScript and Wordpress
-- 📫 How to reach me: victoria@victoriaardscreative.com
+- 📫 How to reach me: linkedin.com/in/vjards
