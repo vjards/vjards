@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vjards and I'm from Houston, Texas.
 - 👀 I’m interested in becoming a technological unicorn that specializes in BOTH web dev and design.
-- 🌱 I’m currently learning JavaScript 
+- 🌱 My favorite programing language is JavaScript.
 - 📫 How to reach me: linkedin.com/in/vjards
