@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vjards and I'm from Houston, Texas.
 - 🦄 My career aspiration is to become a technological unicorn that specializes in BOTH web dev and design.
-- 🌱 My favorite programing language is JavaScript.
+- 💻 My favorite programing language is JavaScript.
 - 📫 Connect with me: linkedin.com/in/vjards
