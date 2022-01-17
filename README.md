@@ -5,8 +5,8 @@
  
  While I'm an not developing websites my favorite hobbies include:
  
- - Crossword Puzzles
- - Pilates & HIIT Cardio
- - Eating Dark Chocolate 
- - Watching Chicago Med, 911, and The Resident (basically all medical dramas)
+ - Crossword Puzzles🧩
+ - Pilates & HIIT Cardio🏋🏽‍♀️
+ - Eating Dark Chocolate 🍫
+ - Watching Chicago Med, 911, and The Resident (basically all medical dramas)📺
 
