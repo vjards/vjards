@@ -1,6 +1,4 @@
- # Hey Yall! I’m Victoria and I live in Houston, Texas.👩🏽
- *I'm a front-end web developer that specializes in building eye-catching and responsive websites for online coaches + course creators.*
- 
+ # Hey Yall! My name is Victoria & I'm a web developer/JavaScript Master from Houston, Texas.👩🏽 
  The reason I chose to become a professional web developer is because I love expressing my analytical and creative abilities to create and maintain interactive sites.
  
  While I'm an not developing websites my favorite hobbies include:
